@@ -1,0 +1,4 @@
+name,host,port,username,device_type
+linux-01,127.0.0.1,2221,netadmin,linux
+linux-02,127.0.0.1,2222,netadmin,linux
+linux-03,127.0.0.1,2299,netadmin,linux
